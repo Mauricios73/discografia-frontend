@@ -34,10 +34,8 @@ Navegue até a pasta `/discografia-frontend` e execute o comando abaixo para ins
 npm install
 ```
 
-
-```
-
 Inicie o servidor do frontend com o comando:
+
 
 ```bash
 npm start
@@ -47,8 +45,8 @@ Agora sua aplicação estará funcionando!
 
 ## Algumas Imagens do Resultado
 
-![FuncionamentoAlbums](./src/public/ListaAlbuns.png)
+![FuncionamentoAlbums](./public/Lista%20de%20albuns.png)
 
-![FuncionamentoAlbums](./src/public/listaTracks.png)
+![FuncionamentoAlbums](./public/lista%20de%20tracks.png)
 
-![FuncionamentoAlbums](./src/public/criarAlbum.png)
+![FuncionamentoAlbums](./public/criar%20album.png)
